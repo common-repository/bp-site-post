@@ -1,0 +1,968 @@
+#: bp-site-post.php:274
+#: views/admin.php:106
+msgid ""
+"BP Site Post Settings"
+msgstr ""
+
+#: bp-site-post.php:274
+#: inc/bpsp-widget.php:57
+msgid "BP Site Post"
+msgstr ""
+
+#: bp-site-post.php:282
+msgid ""
+"You do not have "
+"sufficient permissions "
+"to access this page."
+msgstr ""
+
+#: bp-site-post.php:361
+#: bp-site-post.php:377
+msgid "Edit Post"
+msgstr ""
+
+#: bp-site-post.php:395
+msgid "Error"
+msgstr ""
+
+#: bp-site-post.php:553
+msgid ""
+"Please login or "
+"register to use this "
+"function."
+msgstr ""
+
+#: bp-site-post.php:553
+msgid "Notice"
+msgstr ""
+
+#: bp-site-post.php:642
+msgid ""
+"Unable to create new "
+"category. Please try "
+"again or select an "
+"existing category."
+msgstr ""
+
+#: bp-site-post.php:738
+msgid ""
+"We were unable to "
+"accept your post at "
+"this time. Please try "
+"again. If the problem "
+"persists tell the site "
+"owner."
+msgstr ""
+
+#: bp-site-post.php:856
+msgid "New group post, "
+msgstr ""
+
+#: bp-site-post.php:857
+msgid "New group post to"
+msgstr ""
+
+#: bp-site-post.php:860
+msgid ""
+"Updated group post, "
+msgstr ""
+
+#: bp-site-post.php:861
+msgid ""
+"Updated group post to"
+msgstr ""
+
+#: bp-site-post.php:865
+msgid ""
+" has been submitted to "
+msgstr ""
+
+#: bp-site-post.php:865
+#: bp-site-post.php:883
+msgid " by "
+msgstr ""
+
+#: bp-site-post.php:865
+msgid ""
+" and the post status is "
+msgstr ""
+
+#: bp-site-post.php:865
+#: bp-site-post.php:883
+msgid ""
+"To view the post click "
+"here:"
+msgstr ""
+
+#: bp-site-post.php:870
+msgid ""
+"New front end post to "
+msgstr ""
+
+#: bp-site-post.php:878
+msgid ""
+"New front end post, "
+msgstr ""
+
+#: bp-site-post.php:880
+msgid ""
+"Updated front end post, "
+msgstr ""
+
+#: bp-site-post.php:883
+msgid ""
+" has been submitted to: "
+msgstr ""
+
+#: bp-site-post.php:883
+msgid " with a status of "
+msgstr ""
+
+#: bp-site-post.php:884
+msgid ""
+"New front end post to"
+msgstr ""
+
+#: inc/bp-members.php:68
+msgid "My Posts "
+msgstr ""
+
+#: inc/bp-members.php:80
+msgid "Pending Posts "
+msgstr ""
+
+#: inc/bp-members.php:92
+msgid "Moderation "
+msgstr ""
+
+#: inc/bp-members.php:113
+#: inc/bp-members.php:244
+#: inc/bp-members.php:264
+msgid "My Posts"
+msgstr ""
+
+#: inc/bp-members.php:142
+#: inc/bp-members.php:291
+msgid "Pending Posts"
+msgstr ""
+
+#: inc/bp-members.php:171
+#: inc/bp-members.php:282
+msgid "Moderation"
+msgstr ""
+
+#: inc/bp-members.php:253
+#: inc/bp-members.php:273
+#: templates/my-posts.php:31
+msgid "Add Post"
+msgstr ""
+
+#: inc/bpsp-template-tags.php:84
+#, php-format
+msgid ""
+"Viewing %1s %2$s to "
+"%3$s (of %4$s )"
+msgstr ""
+
+#: inc/bpsp-widget.php:17
+msgid ""
+"Use this widget to "
+"include a form to write "
+"and publish articles "
+"from the sidebar."
+msgstr ""
+
+#: inc/bpsp-widget.php:20
+msgid ""
+"BP Site Post Widget"
+msgstr ""
+
+#: inc/bpsp-widget.php:98
+msgid "Title:"
+msgstr ""
+
+#: templates/my-posts-moderation.php:49
+#: templates/my-posts-pending.php:50
+#: templates/my-posts.php:91
+msgid "Link to"
+msgstr ""
+
+#: templates/my-posts-moderation.php:51
+#: templates/my-posts-pending.php:52
+#: templates/my-posts.php:93
+msgid "in"
+msgstr ""
+
+#: templates/my-posts-moderation.php:57
+#: templates/my-posts-pending.php:58
+#: templates/my-posts.php:99
+msgid "Tags: "
+msgstr ""
+
+#: templates/my-posts-moderation.php:57
+#: templates/my-posts-pending.php:58
+#: templates/my-posts.php:99
+msgid "No Comments &#187;"
+msgstr ""
+
+#: templates/my-posts-moderation.php:57
+#: templates/my-posts-pending.php:58
+#: templates/my-posts.php:99
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: templates/my-posts-moderation.php:57
+#: templates/my-posts-pending.php:58
+#: templates/my-posts.php:99
+msgid "% Comments &#187;"
+msgstr ""
+
+#: templates/my-posts-moderation.php:59
+#: templates/my-posts-pending.php:60
+#: templates/my-posts.php:103
+msgid "Post Status: "
+msgstr ""
+
+#: templates/my-posts-moderation.php:61
+#: templates/my-posts-pending.php:62
+#: templates/my-posts.php:105
+msgid "Post Date: "
+msgstr ""
+
+#: templates/my-posts-moderation.php:90
+#: templates/my-posts-pending.php:91
+#: templates/my-posts.php:136
+msgid "No posts found."
+msgstr ""
+
+#: templates/my-posts.php:39
+msgid "Search "
+msgstr ""
+
+#: templates/my-posts.php:39
+msgid "'s posts"
+msgstr ""
+
+#: views/admin.php:14
+msgid "Main Settings"
+msgstr ""
+
+#: views/admin.php:15
+msgid "Form Title"
+msgstr ""
+
+#: views/admin.php:16
+msgid "Edit Page ID"
+msgstr ""
+
+#: views/admin.php:17
+msgid ""
+"Add edit link to post "
+"content"
+msgstr ""
+
+#: views/admin.php:18
+msgid "Publish Status"
+msgstr ""
+
+#: views/admin.php:19
+msgid ""
+"Enforce Unique Titles"
+msgstr ""
+
+#: views/admin.php:20
+msgid ""
+"Post Success Message"
+msgstr ""
+
+#: views/admin.php:21
+#: views/admin.php:22
+msgid ""
+"Post Failure Message"
+msgstr ""
+
+#: views/admin.php:23
+msgid ""
+"Automatically Add "
+"Featured Image"
+msgstr ""
+
+#: views/admin.php:25
+msgid "Mail on New Post"
+msgstr ""
+
+#: views/admin.php:26
+msgid ""
+"Display Login Link in "
+"Form"
+msgstr ""
+
+#: views/admin.php:29
+msgid ""
+"Default Post Format"
+msgstr ""
+
+#: views/admin.php:30
+msgid ""
+"Allow selection of Post "
+"Format"
+msgstr ""
+
+#: views/admin.php:33
+msgid ""
+"Hide WordPress Toolbar"
+msgstr ""
+
+#: views/admin.php:34
+msgid ""
+"Hide regular Toolbar "
+"Edit Link"
+msgstr ""
+
+#: views/admin.php:35
+msgid ""
+"Hide New Content Menu"
+msgstr ""
+
+#: views/admin.php:36
+msgid ""
+"Hide Toolbar WP logo"
+msgstr ""
+
+#: views/admin.php:37
+msgid ""
+"Hide Toolbar Site Name"
+msgstr ""
+
+#: views/admin.php:38
+msgid ""
+"Hide Toolbar Comments "
+"Link"
+msgstr ""
+
+#: views/admin.php:39
+msgid ""
+"Hide regular WP Edit "
+"Link"
+msgstr ""
+
+#: views/admin.php:40
+msgid ""
+"Deny Backend Access for "
+"Subscribers and "
+"Contributors"
+msgstr ""
+
+#: views/admin.php:41
+msgid ""
+"Allow guest to post"
+msgstr ""
+
+#: views/admin.php:42
+msgid "Guest Account"
+msgstr ""
+
+#: views/admin.php:43
+msgid ""
+"Allow Guests to select "
+"Category"
+msgstr ""
+
+#: views/admin.php:44
+msgid ""
+"Category for Guest Posts"
+msgstr ""
+
+#: views/admin.php:45
+msgid ""
+"Show Guests a Spam "
+"Prevention Quiz"
+msgstr ""
+
+#: views/admin.php:47
+msgid "Category Settings"
+msgstr ""
+
+#: views/admin.php:48
+msgid "Display Categories"
+msgstr ""
+
+#: views/admin.php:49
+msgid ""
+"Create New Category"
+msgstr ""
+
+#: views/admin.php:50
+msgid "Categrory Order"
+msgstr ""
+
+#: views/admin.php:52
+msgid "Field Settings"
+msgstr ""
+
+#: views/admin.php:53
+msgid "Require a Title"
+msgstr ""
+
+#: views/admin.php:54
+msgid ""
+"Show Separate Excerpt"
+msgstr ""
+
+#: views/admin.php:55
+msgid ""
+"Content Field Style"
+msgstr ""
+
+#: views/admin.php:56
+msgid "Allow Media Upload"
+msgstr ""
+
+#: views/admin.php:57
+msgid "Allow Tags"
+msgstr ""
+
+#: views/admin.php:58
+msgid ""
+"Email & Name for Guest "
+"Posts"
+msgstr ""
+
+#: views/admin.php:61
+msgid "Labels"
+msgstr ""
+
+#: views/admin.php:62
+#: views/display.php:100
+msgid "Title"
+msgstr ""
+
+#: views/admin.php:63
+#: views/display.php:103
+msgid "Excerpt"
+msgstr ""
+
+#: views/admin.php:64
+msgid "Content"
+msgstr ""
+
+#: views/admin.php:65
+msgid "Tags"
+msgstr ""
+
+#: views/admin.php:66
+msgid "Categories"
+msgstr ""
+
+#: views/admin.php:67
+msgid "New Category"
+msgstr ""
+
+#: views/admin.php:68
+msgid "Send Button"
+msgstr ""
+
+#: views/admin.php:107
+msgid ""
+"Need help? Just click "
+"here!"
+msgstr ""
+
+#: views/admin.php:109
+msgid ""
+"Documentation is here!"
+msgstr ""
+
+#: views/admin.php:119
+msgid "Save Changes"
+msgstr ""
+
+#: views/admin.php:140
+msgid ""
+"Enter the ID of the "
+"page where the edit "
+"form appears (the page "
+"where you entered the "
+"plugin shortcode)."
+msgstr ""
+
+#: views/admin.php:152
+msgid ""
+"Add a link to edit the "
+"post after the post "
+"content)."
+msgstr ""
+
+#: views/admin.php:163
+msgid ""
+"Automatically add the "
+"first uploaded image in "
+"the post as featured."
+msgstr ""
+
+#: views/admin.php:204
+#: views/display.php:235
+#: views/display.php:531
+msgid "Publish"
+msgstr ""
+
+#: views/admin.php:205
+#: views/display.php:241
+#: views/display.php:390
+msgid "Pending"
+msgstr ""
+
+#: views/admin.php:208
+msgid ""
+"<p "
+"class='description'>The "
+"Statuses available to "
+"standard users - "
+"Pending or Publish.</p>"
+msgstr ""
+
+#: views/admin.php:221
+msgid ""
+"Check to require a "
+"unique title for the "
+"post."
+msgstr ""
+
+#: views/admin.php:233
+msgid ""
+"Check to display a "
+"field to enter tags."
+msgstr ""
+
+#: views/admin.php:244
+msgid ""
+"Check to require email "
+"and name for guest "
+"posts."
+msgstr ""
+
+#: views/admin.php:255
+msgid ""
+"Check to enforce the "
+"user to enter a title "
+"for his post."
+msgstr ""
+
+#: views/admin.php:266
+msgid ""
+"Check to display a "
+"separate field for the "
+"excerpt."
+msgstr ""
+
+#: views/admin.php:277
+msgid ""
+"Check to display an "
+"editor field for the "
+"content."
+msgstr ""
+
+#: views/admin.php:283
+msgid ""
+"Simple - Plain Text"
+msgstr ""
+
+#: views/admin.php:284
+msgid ""
+"Rich - Visual and HTML"
+msgstr ""
+
+#: views/admin.php:285
+msgid ""
+"Visual - Visual Only"
+msgstr ""
+
+#: views/admin.php:286
+msgid "HTML - HTML Only"
+msgstr ""
+
+#: views/admin.php:294
+msgid ""
+"<p class=\"description"
+"\">Your custom post-"
+"success message.</p>"
+msgstr ""
+
+#: views/admin.php:300
+msgid ""
+"<p class=\"description"
+"\">Your custom post-"
+"failure message.</p>"
+msgstr ""
+
+#: views/admin.php:306
+msgid ""
+"<p class=\"description"
+"\">Your custom post not "
+"unique message.</p>"
+msgstr ""
+
+#: views/admin.php:312
+msgid ""
+"<p class=\"description"
+"\">The URL to redirect "
+"the user to after his "
+"post.</p>"
+msgstr ""
+
+#: views/admin.php:313
+msgid ""
+"<p class=\"description"
+"\">Shortcode parameters "
+"will overwrite this "
+"setting.</p>"
+msgstr ""
+
+#: views/admin.php:325
+msgid ""
+"Check to notify admin "
+"on new post."
+msgstr ""
+
+#: views/admin.php:331
+msgid "Droplist"
+msgstr ""
+
+#: views/admin.php:332
+msgid "Check boxes"
+msgstr ""
+
+#: views/admin.php:333
+msgid "No display"
+msgstr ""
+
+#: views/admin.php:336
+msgid ""
+"How categories appear "
+"at the front end."
+msgstr ""
+
+#: views/admin.php:337
+msgid ""
+"<p class=\"description"
+"\">You can select not "
+"to display categories "
+"at all.</p>"
+msgstr ""
+
+#: views/admin.php:348
+msgid ""
+"Check to allow users to "
+"create new categories."
+msgstr ""
+
+#: views/admin.php:354
+msgid "by ID"
+msgstr ""
+
+#: views/admin.php:355
+msgid "by name"
+msgstr ""
+
+#: views/admin.php:358
+msgid ""
+"The sort order of "
+"categories at the front "
+"end."
+msgstr ""
+
+#: views/admin.php:369
+msgid ""
+"Allow user to upload "
+"new media file "
+"(picture, video)."
+msgstr ""
+
+#: views/admin.php:380
+msgid ""
+"Display a Login Link "
+"inside the form."
+msgstr ""
+
+#: views/admin.php:394
+msgid ""
+"Select the default Post "
+"Format."
+msgstr ""
+
+#: views/admin.php:405
+msgid ""
+"Allow the selection off "
+"the Post Format inside "
+"the form."
+msgstr ""
+
+#: views/admin.php:416
+msgid ""
+"Hide the WordPress "
+"Toolbar for non editors."
+msgstr ""
+
+#: views/admin.php:427
+msgid ""
+"Hide the WordPress New "
+"Content Toolbar menu "
+"item for non editors."
+msgstr ""
+
+#: views/admin.php:438
+msgid ""
+"Hide the Toolbar WP "
+"logo."
+msgstr ""
+
+#: views/admin.php:449
+msgid ""
+"Hide the Toolbar Site "
+"Name Link for non "
+"Editors."
+msgstr ""
+
+#: views/admin.php:460
+msgid ""
+"Hide the Toolbar "
+"Comments link."
+msgstr ""
+
+#: views/admin.php:471
+msgid ""
+"Deny subscribers and "
+"contributors access to "
+"the backend."
+msgstr ""
+
+#: views/admin.php:482
+msgid ""
+"Hide the regular "
+"WordPress Edit Link "
+"that is displayed while "
+"viewing a post, replace "
+"it with an edit link to "
+"Site Post."
+msgstr ""
+
+#: views/admin.php:493
+msgid ""
+"Hide the toolbar edit "
+"link that is displayed "
+"while viewing posts for "
+"non editors."
+msgstr ""
+
+#: views/admin.php:504
+msgid ""
+"Allow guests to post."
+msgstr ""
+
+#: views/admin.php:513
+msgid ""
+"Dedicated account to "
+"use for guests"
+msgstr ""
+
+#: views/admin.php:515
+msgid ""
+"The dedicated account "
+"that should be used for "
+"guest posts."
+msgstr ""
+
+#: views/admin.php:527
+msgid ""
+"Check if you want "
+"guests to select "
+"categories themselves. "
+"If not checked the "
+"default category you "
+"specify below will be "
+"used for guest posts."
+msgstr ""
+
+#: views/admin.php:546
+msgid ""
+"Category used for guest "
+"posts"
+msgstr ""
+
+#: views/admin.php:548
+msgid ""
+"The category guest "
+"posts should be "
+"assigned to."
+msgstr ""
+
+#: views/admin.php:559
+msgid ""
+"Display a Spam "
+"Prevention Quiz. "
+"Applies to users not "
+"logged in."
+msgstr ""
+
+#: views/admin.php:562
+msgid ""
+"Section for all the "
+"general settings for "
+"this plugin."
+msgstr ""
+
+#: views/admin.php:565
+msgid ""
+"Section for all the "
+"settings specific to "
+"categories."
+msgstr ""
+
+#: views/admin.php:568
+msgid ""
+"Specify the fields you "
+"want to include in the "
+"form generated."
+msgstr ""
+
+#: views/admin.php:569
+msgid ""
+"Please note that the "
+"Title will always be "
+"included - No Post "
+"without Title."
+msgstr ""
+
+#: views/admin.php:572
+msgid ""
+"You can specify your "
+"own labels for the form "
+"fields shown to the user"
+msgstr ""
+
+#: views/display.php:99
+msgid "Site Post"
+msgstr ""
+
+#: views/display.php:106
+msgid "Text"
+msgstr ""
+
+#: views/display.php:147
+msgid "Select a Category"
+msgstr ""
+
+#: views/display.php:160
+msgid "Category"
+msgstr ""
+
+#: views/display.php:178
+msgid "New category"
+msgstr ""
+
+#: views/display.php:182
+msgid ""
+"Tags (comma-separated)"
+msgstr ""
+
+#: views/display.php:197
+msgid "Post Format"
+msgstr ""
+
+#: views/display.php:208
+msgid "Your Name"
+msgstr ""
+
+#: views/display.php:211
+msgid "Your Email"
+msgstr ""
+
+#: views/display.php:219
+msgid "Wrong Quiz Answer!"
+msgstr ""
+
+#: views/display.php:220
+msgid " plus "
+msgstr ""
+
+#: views/display.php:228
+#: views/display.php:383
+msgid "Post Status"
+msgstr ""
+
+#: views/display.php:247
+#: views/display.php:396
+msgid "Draft"
+msgstr ""
+
+#: views/display.php:253
+#: views/display.php:402
+msgid "Private"
+msgstr ""
+
+#: views/display.php:271
+#: views/display.php:357
+#: views/display.php:504
+msgid "Members Only"
+msgstr ""
+
+#: views/display.php:280
+msgid "Group Post"
+msgstr ""
+
+#: views/display.php:289
+#: views/display.php:436
+msgid "Friends Only"
+msgstr ""
+
+#: views/display.php:297
+#: views/display.php:444
+msgid "Following"
+msgstr ""
+
+#: views/display.php:305
+#: views/display.php:452
+msgid "Followed"
+msgstr ""
+
+#: views/display.php:328
+#: views/display.php:475
+msgid "Group"
+msgstr ""
+
+#: views/display.php:349
+#: views/display.php:496
+msgid "Visibility:"
+msgstr ""
+
+#: views/display.php:356
+#: views/display.php:503
+msgid "Group Only"
+msgstr ""
+
+#: views/display.php:358
+#: views/display.php:505
+msgid "Public"
+msgstr ""
+
+#: views/display.php:420
+msgid ""
+"Members Only Pending"
+msgstr ""
+
+#: views/display.php:428
+msgid "Group Post Pending"
+msgstr ""
+
+#: views/display.php:532
+msgid "New Post"
+msgstr ""
+
+#: views/display.php:566
+msgid ""
+"Seems like you don't "
+"have Javascript "
+"enabled. To use this "
+"function you need to "
+"enable JavaScript."
+msgstr ""

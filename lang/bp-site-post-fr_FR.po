@@ -1,0 +1,803 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ProfileGrid POT v1.0.0\n"
+"POT-Creation-Date: 2019-04-04 19:03+0200\n"
+"PO-Revision-Date: \n"
+"Language-Team: ProfileGrid Support <support@profilegrid.co>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bp-site-post.php:274 views/admin.php:106
+msgid "BP Site Post Settings"
+msgstr "Paramètres des Publications BP"
+
+#: bp-site-post.php:274 inc/bpsp-widget.php:57
+msgid "BP Site Post"
+msgstr "BP Site Post"
+
+#: bp-site-post.php:282
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les droits suffisants pour accéder à cette page."
+
+#: bp-site-post.php:361 bp-site-post.php:377
+msgid "Edit Post"
+msgstr "Modifier la publication"
+
+#: bp-site-post.php:395
+msgid "Error"
+msgstr "Erreur"
+
+#: bp-site-post.php:553
+msgid "Please login or register to use this function."
+msgstr ""
+"Veuillez-vous connecter ou vous enregistrer pour utiliser cette fonction."
+
+#: bp-site-post.php:553
+msgid "Notice"
+msgstr "Avertissement"
+
+#: bp-site-post.php:642
+msgid ""
+"Unable to create new category. Please try again or select an existing "
+"category."
+msgstr ""
+"Impossible de créer une nouvelle catégorie. Veuillez réessayer ou "
+"sélectionner une catégorie existante."
+
+#: bp-site-post.php:738
+msgid ""
+"We were unable to accept your post at this time. Please try again. If the "
+"problem persists tell the site owner."
+msgstr ""
+"Nous n’avons pas pu accepter votre publication. Veuillez réessayer. Si le "
+"problème persiste, informez le propriétaire du site."
+
+#: bp-site-post.php:856
+msgid "New group post, "
+msgstr "Nouvelle publication de groupe "
+
+#: bp-site-post.php:857
+msgid "New group post to"
+msgstr "Nouvelle publication de groupe vers"
+
+#: bp-site-post.php:860
+msgid "Updated group post, "
+msgstr "Publication de groupe mise à jour, "
+
+#: bp-site-post.php:861
+msgid "Updated group post to"
+msgstr "Publication de groupe mise à jour vers"
+
+#: bp-site-post.php:865
+msgid " has been submitted to "
+msgstr " a été envoyée à "
+
+#: bp-site-post.php:865 bp-site-post.php:883
+msgid " by "
+msgstr " par "
+
+#: bp-site-post.php:865
+msgid " and the post status is "
+msgstr " et son statut de publication est "
+
+#: bp-site-post.php:865 bp-site-post.php:883
+msgid "To view the post click here:"
+msgstr "Pour voir la publication cliquez ici :"
+
+#: bp-site-post.php:870
+msgid "New front end post to "
+msgstr "Nouvelle publication en frontal vers "
+
+#: bp-site-post.php:878
+msgid "New front end post, "
+msgstr "Nouvelle publication en frontal, "
+
+#: bp-site-post.php:880
+msgid "Updated front end post, "
+msgstr "Publication du frontal mise à jour, "
+
+#: bp-site-post.php:883
+msgid " has been submitted to: "
+msgstr " a été envoyée à : "
+
+#: bp-site-post.php:883
+msgid " with a status of "
+msgstr " avec le statut de "
+
+#: bp-site-post.php:884
+msgid "New front end post to"
+msgstr "Nouvelle publication en frontal vers"
+
+#: inc/bp-members.php:68
+msgid "My Posts "
+msgstr "Mes publications "
+
+#: inc/bp-members.php:80
+msgid "Pending Posts "
+msgstr "Publications en attente "
+
+#: inc/bp-members.php:92
+msgid "Moderation "
+msgstr "Modération "
+
+#: inc/bp-members.php:113 inc/bp-members.php:244 inc/bp-members.php:264
+msgid "My Posts"
+msgstr "Mes publications"
+
+#: inc/bp-members.php:142 inc/bp-members.php:291
+msgid "Pending Posts"
+msgstr "Publications en attente"
+
+#: inc/bp-members.php:171 inc/bp-members.php:282
+msgid "Moderation"
+msgstr "Modération"
+
+#: inc/bp-members.php:253 inc/bp-members.php:273 templates/my-posts.php:31
+msgid "Add Post"
+msgstr "Ajouter une publication"
+
+#: inc/bpsp-template-tags.php:84
+#, php-format
+msgid "Viewing %1s %2$s to %3$s (of %4$s )"
+msgstr "Voir %1s %2$s à %3$s (sur %4$s )"
+
+#: inc/bpsp-widget.php:17
+msgid ""
+"Use this widget to include a form to write and publish articles from the "
+"sidebar."
+msgstr ""
+"Utilisez ce widget pour inclure un formulaire permettant d’écrire et de "
+"publier des articles à partir de la sidebar."
+
+#: inc/bpsp-widget.php:20
+msgid "BP Site Post Widget"
+msgstr "BP Widget des publications du site"
+
+#: inc/bpsp-widget.php:98
+msgid "Title:"
+msgstr "Titre :"
+
+#: templates/my-posts-moderation.php:49 templates/my-posts-pending.php:50
+#: templates/my-posts.php:91
+msgid "Link to"
+msgstr "Lien vers"
+
+#: templates/my-posts-moderation.php:51 templates/my-posts-pending.php:52
+#: templates/my-posts.php:93
+msgid "in"
+msgstr "dans"
+
+#: templates/my-posts-moderation.php:57 templates/my-posts-pending.php:58
+#: templates/my-posts.php:99
+msgid "Tags: "
+msgstr "Mots-clés : "
+
+#: templates/my-posts-moderation.php:57 templates/my-posts-pending.php:58
+#: templates/my-posts.php:99
+msgid "No Comments &#187;"
+msgstr "Aucun commentaire &#187;"
+
+#: templates/my-posts-moderation.php:57 templates/my-posts-pending.php:58
+#: templates/my-posts.php:99
+msgid "1 Comment &#187;"
+msgstr "1 commentaire &#187;"
+
+#: templates/my-posts-moderation.php:57 templates/my-posts-pending.php:58
+#: templates/my-posts.php:99
+msgid "% Comments &#187;"
+msgstr "% commentaires &#187;"
+
+#: templates/my-posts-moderation.php:59 templates/my-posts-pending.php:60
+#: templates/my-posts.php:103
+msgid "Post Status: "
+msgstr "Statut de la publication : "
+
+#: templates/my-posts-moderation.php:61 templates/my-posts-pending.php:62
+#: templates/my-posts.php:105
+msgid "Post Date: "
+msgstr "Date de publication : "
+
+#: templates/my-posts-moderation.php:90 templates/my-posts-pending.php:91
+#: templates/my-posts.php:136
+msgid "No posts found."
+msgstr "Aucune publication trouvée."
+
+#: templates/my-posts.php:39
+msgid "Search "
+msgstr "Rechercher "
+
+#: templates/my-posts.php:39
+msgid "'s posts"
+msgstr ""
+
+#: views/admin.php:14
+msgid "Main Settings"
+msgstr "Paramètres principaux"
+
+#: views/admin.php:15
+msgid "Form Title"
+msgstr "Titre du formulaire"
+
+#: views/admin.php:16
+msgid "Edit Page ID"
+msgstr "Modifier l'ID de la page"
+
+#: views/admin.php:17
+msgid "Add edit link to post content"
+msgstr "Ajouter un lien pour publier du contenu"
+
+#: views/admin.php:18
+msgid "Publish Status"
+msgstr "Statut de publication"
+
+#: views/admin.php:19
+msgid "Enforce Unique Titles"
+msgstr "Forcer des titres uniques"
+
+#: views/admin.php:20
+msgid "Post Success Message"
+msgstr "Message de publication réussie"
+
+#: views/admin.php:21 views/admin.php:22
+msgid "Post Failure Message"
+msgstr "Message de publication en échec"
+
+#: views/admin.php:23
+msgid "Automatically Add Featured Image"
+msgstr "Ajouter automatiquement une image mise en avant"
+
+#: views/admin.php:25
+msgid "Mail on New Post"
+msgstr "Mail si nouvelle publication"
+
+#: views/admin.php:26
+msgid "Display Login Link in Form"
+msgstr "Afficher un lien de connexion dans le formulaire"
+
+#: views/admin.php:29
+msgid "Default Post Format"
+msgstr "Format de publication par défaut"
+
+#: views/admin.php:30
+msgid "Allow selection of Post Format"
+msgstr "Autoriser la sélection du format de publication"
+
+#: views/admin.php:33
+msgid "Hide WordPress Toolbar"
+msgstr "Masquer la barre d'outils WordPress"
+
+#: views/admin.php:34
+msgid "Hide regular Toolbar Edit Link"
+msgstr "Masquer la barre d'outils habituelle Modifier le lien"
+
+#: views/admin.php:35
+msgid "Hide New Content Menu"
+msgstr "Masquer le menu Nouveau contenu"
+
+#: views/admin.php:36
+msgid "Hide Toolbar WP logo"
+msgstr "Masquer le logo WP de la barre d'outils"
+
+#: views/admin.php:37
+msgid "Hide Toolbar Site Name"
+msgstr "Masquer le nom du site de la barre d'outils"
+
+#: views/admin.php:38
+msgid "Hide Toolbar Comments Link"
+msgstr "Masquer le lien commentaires de la barre d'outils"
+
+#: views/admin.php:39
+msgid "Hide regular WP Edit Link"
+msgstr "Masquer le lien WP habituel Modifier le lien"
+
+#: views/admin.php:40
+msgid "Deny Backend Access for Subscribers and Contributors"
+msgstr "Refuser l'accès principal pour les abonnés et les contributeurs"
+
+#: views/admin.php:41
+msgid "Allow guest to post"
+msgstr "Autoriser les inviter à publier des messages"
+
+#: views/admin.php:42
+msgid "Guest Account"
+msgstr "Compte d'invité"
+
+#: views/admin.php:43
+msgid "Allow Guests to select Category"
+msgstr "Autoriser les inviter à sélectionner une catégorie"
+
+#: views/admin.php:44
+msgid "Category for Guest Posts"
+msgstr "Catégorie pour les publications des invités"
+
+#: views/admin.php:45
+msgid "Show Guests a Spam Prevention Quiz"
+msgstr "Afficher aux invités un questionnaire sur la prévention du spam"
+
+#: views/admin.php:47
+msgid "Category Settings"
+msgstr "Paramètres des catégories"
+
+#: views/admin.php:48
+msgid "Display Categories"
+msgstr "Afficher les catégories"
+
+#: views/admin.php:49
+msgid "Create New Category"
+msgstr "Créer une nouvelle catégorie"
+
+#: views/admin.php:50
+msgid "Categrory Order"
+msgstr "Ordre des catégories"
+
+#: views/admin.php:52
+msgid "Field Settings"
+msgstr "Paramétrage des champs"
+
+#: views/admin.php:53
+msgid "Require a Title"
+msgstr "Requiert un titre"
+
+#: views/admin.php:54
+msgid "Show Separate Excerpt"
+msgstr "Afficher des extraits séparés"
+
+#: views/admin.php:55
+msgid "Content Field Style"
+msgstr "Style du contenu du champ"
+
+#: views/admin.php:56
+msgid "Allow Media Upload"
+msgstr "Autoriser l'envoi de fichier média"
+
+#: views/admin.php:57
+msgid "Allow Tags"
+msgstr "Autoriser les mots-clés"
+
+#: views/admin.php:58
+msgid "Email & Name for Guest Posts"
+msgstr "Email et nom des invités"
+
+#: views/admin.php:61
+msgid "Labels"
+msgstr "Etiquettes"
+
+#: views/admin.php:62 views/display.php:100
+msgid "Title"
+msgstr "Titre"
+
+#: views/admin.php:63 views/display.php:103
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: views/admin.php:64
+msgid "Content"
+msgstr "Contenu"
+
+#: views/admin.php:65
+msgid "Tags"
+msgstr "Mots-clés"
+
+#: views/admin.php:66
+msgid "Categories"
+msgstr "Catégories"
+
+#: views/admin.php:67
+msgid "New Category"
+msgstr "Nouvelle catégorie"
+
+#: views/admin.php:68
+msgid "Send Button"
+msgstr "Bouton envoyer"
+
+#: views/admin.php:107
+msgid "Need help? Just click here!"
+msgstr "Besoin d'aide ? Cliquez ici !"
+
+#: views/admin.php:109
+msgid "Documentation is here!"
+msgstr "La documentation est ici !"
+
+#: views/admin.php:119
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: views/admin.php:140
+msgid ""
+"Enter the ID of the page where the edit form appears (the page where you "
+"entered the plugin shortcode)."
+msgstr ""
+"Entrez l’ID de la page où le formulaire de modification apparaît (la page "
+"sur laquelle vous avez entré le shortcode du plugin)."
+
+#: views/admin.php:152
+msgid "Add a link to edit the post after the post content)."
+msgstr "Ajouter un lien pour modifier la publication (après le contenu)."
+
+#: views/admin.php:163
+msgid "Automatically add the first uploaded image in the post as featured."
+msgstr ""
+"Place automatiquement la première image de la publication comme mise en "
+"avant."
+
+#: views/admin.php:204 views/display.php:235 views/display.php:531
+msgid "Publish"
+msgstr "Publier"
+
+#: views/admin.php:205 views/display.php:241 views/display.php:390
+msgid "Pending"
+msgstr "En attente"
+
+#: views/admin.php:208
+msgid ""
+"<p class='description'>The Statuses available to standard users - Pending or "
+"Publish.</p>"
+msgstr ""
+"<p class='description'>Statuts disponibles pour les utilisateurs standards - "
+"En attente ou Publier.</p>"
+
+#: views/admin.php:221
+msgid "Check to require a unique title for the post."
+msgstr "Cochez pour imposer un titre de publication unique."
+
+#: views/admin.php:233
+msgid "Check to display a field to enter tags."
+msgstr "Cochez pour afficher un champ pour saisir des mots-clés."
+
+#: views/admin.php:244
+msgid "Check to require email and name for guest posts."
+msgstr "Cochez pour demander un mail et un nom aux invités."
+
+#: views/admin.php:255
+msgid "Check to enforce the user to enter a title for his post."
+msgstr "Cochez pour forcer les invités à donner un titre à leur publication."
+
+#: views/admin.php:266
+msgid "Check to display a separate field for the excerpt."
+msgstr "Cochez cette case pour afficher un champ séparé pour l’extrait."
+
+#: views/admin.php:277
+msgid "Check to display an editor field for the content."
+msgstr "Cochez cette case pour afficher un champ pour éditer le contenu."
+
+#: views/admin.php:283
+msgid "Simple - Plain Text"
+msgstr "Simple - Texte brut"
+
+#: views/admin.php:284
+msgid "Rich - Visual and HTML"
+msgstr "Enrichi - Visuel et HTML"
+
+#: views/admin.php:285
+msgid "Visual - Visual Only"
+msgstr "Visuel - Visuel seulement"
+
+#: views/admin.php:286
+msgid "HTML - HTML Only"
+msgstr "HTML - HTML seulement"
+
+#: views/admin.php:294
+msgid "<p class=\"description\">Your custom post-success message.</p>"
+msgstr ""
+"<p class=\"description\">Votre message personnalisé de publication réussie.</"
+"p>"
+
+#: views/admin.php:300
+msgid "<p class=\"description\">Your custom post-failure message.</p>"
+msgstr ""
+"<p class=\"description\">Votre message personnalisé de publication en échec."
+"</p>"
+
+#: views/admin.php:306
+msgid "<p class=\"description\">Your custom post not unique message.</p>"
+msgstr ""
+"<p class=\"description\">Votre message personnalisé de publication au titre "
+"déjà existant.</p>"
+
+#: views/admin.php:312
+msgid ""
+"<p class=\"description\">The URL to redirect the user to after his post.</p>"
+msgstr ""
+"<p class=\"description\">L'URL vers laquelle rediriger l'utilisateur après "
+"sa publication.</p>"
+
+#: views/admin.php:313
+msgid ""
+"<p class=\"description\">Shortcode parameters will overwrite this setting.</"
+"p>"
+msgstr ""
+"<p class=\"description\">Les paramètres du shortcode vont remplacer ces "
+"réglages.</p>"
+
+#: views/admin.php:325
+msgid "Check to notify admin on new post."
+msgstr "Cochez pour avertir l'administrateur d'une nouvelle publication."
+
+#: views/admin.php:331
+msgid "Droplist"
+msgstr "Liste déroulante"
+
+#: views/admin.php:332
+msgid "Check boxes"
+msgstr "Cases à cocher"
+
+#: views/admin.php:333
+msgid "No display"
+msgstr "Ne pas afficher"
+
+#: views/admin.php:336
+msgid "How categories appear at the front end."
+msgstr "Comment les catégories sont affichées en frontal."
+
+#: views/admin.php:337
+msgid ""
+"<p class=\"description\">You can select not to display categories at all.</p>"
+msgstr ""
+"<p class=\"description\">Vous pouvez choisir n'afficher aucune catégorie.</p>"
+
+#: views/admin.php:348
+msgid "Check to allow users to create new categories."
+msgstr ""
+"Cochez cette case pour autoriser les utilisateurs à créer de nouvelles "
+"catégories."
+
+#: views/admin.php:354
+msgid "by ID"
+msgstr "par ID"
+
+#: views/admin.php:355
+msgid "by name"
+msgstr "par nom"
+
+#: views/admin.php:358
+msgid "The sort order of categories at the front end."
+msgstr "Le tri des catégories en frontal du site."
+
+#: views/admin.php:369
+msgid "Allow user to upload new media file (picture, video)."
+msgstr ""
+"Autoriser l'utilisateur à télécharger un nouveau fichier multimédia (image, "
+"vidéo)."
+
+#: views/admin.php:380
+msgid "Display a Login Link inside the form."
+msgstr "Afficher un lien de connexion dans le formulaire."
+
+#: views/admin.php:394
+msgid "Select the default Post Format."
+msgstr "Sélectionnez le format de publication par défaut."
+
+#: views/admin.php:405
+msgid "Allow the selection off the Post Format inside the form."
+msgstr "Autorise la sélection du format des publications dans le formulaire."
+
+#: views/admin.php:416
+msgid "Hide the WordPress Toolbar for non editors."
+msgstr "Masquer la barre de d'outils de WordPress pour les non-éditeurs."
+
+#: views/admin.php:427
+msgid "Hide the WordPress New Content Toolbar menu item for non editors."
+msgstr "Masquer le menu nouveau contenu de WordPress pour les non-éditeurs."
+
+#: views/admin.php:438
+msgid "Hide the Toolbar WP logo."
+msgstr "Masquer le logo WP de la barre d'outils."
+
+#: views/admin.php:449
+msgid "Hide the Toolbar Site Name Link for non Editors."
+msgstr ""
+"Masquer le lien vers le nom du site de la barre d'outils pour les non-"
+"éditeurs."
+
+#: views/admin.php:460
+msgid "Hide the Toolbar Comments link."
+msgstr "Masquer le lien commentaires de la barre d'outils."
+
+#: views/admin.php:471
+msgid "Deny subscribers and contributors access to the backend."
+msgstr "Refuser l'accès principal pour les abonnés et les contributeurs."
+
+#: views/admin.php:482
+msgid ""
+"Hide the regular WordPress Edit Link that is displayed while viewing a post, "
+"replace it with an edit link to Site Post."
+msgstr ""
+"Masquer le lien de modification de WordPress qui est affiché par défaut lors "
+"de l’affichage d’une publication, remplacez-le par un lien de modification "
+"de cette extension."
+
+#: views/admin.php:493
+msgid ""
+"Hide the toolbar edit link that is displayed while viewing posts for non "
+"editors."
+msgstr ""
+"Masquer pour les non-éditeurs le lien de modification affiché dans la barre "
+"d'outils lors de l'affichage des publications."
+
+#: views/admin.php:504
+msgid "Allow guests to post."
+msgstr "Autoriser les inviter à publier des messages."
+
+#: views/admin.php:513
+msgid "Dedicated account to use for guests"
+msgstr "Compte dédié à utiliser pour les invités"
+
+#: views/admin.php:515
+msgid "The dedicated account that should be used for guest posts."
+msgstr "Le compte dédié à utiliser pour les publications d'invités."
+
+#: views/admin.php:527
+msgid ""
+"Check if you want guests to select categories themselves. If not checked the "
+"default category you specify below will be used for guest posts."
+msgstr ""
+"Vérifiez si vous souhaitez que les invités sélectionnent les catégories eux-"
+"mêmes. Si cette case n'est pas cochée, la catégorie par défaut spécifiée ci-"
+"dessous sera utilisée pour les publications des invités."
+
+#: views/admin.php:546
+msgid "Category used for guest posts"
+msgstr "Catégorie utilisée pour les publications des invités"
+
+#: views/admin.php:548
+msgid "The category guest posts should be assigned to."
+msgstr "Catégorie à laquelle sont attribués les messages des invités."
+
+#: views/admin.php:559
+msgid "Display a Spam Prevention Quiz. Applies to users not logged in."
+msgstr ""
+"Afficher un questionnaire sur la prévention du spam. S'applique aux "
+"utilisateurs non connectés."
+
+#: views/admin.php:562
+msgid "Section for all the general settings for this plugin."
+msgstr "Section pour tous les paramètres généraux pour ce plugin."
+
+#: views/admin.php:565
+msgid "Section for all the settings specific to categories."
+msgstr "Section pour tous les paramètres spécifiques aux catégories."
+
+#: views/admin.php:568
+msgid "Specify the fields you want to include in the form generated."
+msgstr ""
+"Spécifiez les champs que vous souhaitez inclure dans le formulaire généré."
+
+#: views/admin.php:569
+msgid ""
+"Please note that the Title will always be included - No Post without Title."
+msgstr ""
+"Veuillez noter que le titre sera toujours inclus - Pas de message sans titre."
+
+#: views/admin.php:572
+msgid "You can specify your own labels for the form fields shown to the user"
+msgstr ""
+"Vous pouvez spécifier vos propres étiquettes pour les champs du formulaire "
+"affichés à l'utilisateur."
+
+#: views/display.php:99
+msgid "Site Post"
+msgstr "Publication du site"
+
+#: views/display.php:106
+msgid "Text"
+msgstr "Texte"
+
+#: views/display.php:147
+msgid "Select a Category"
+msgstr "Sélectionnez une catégorie"
+
+#: views/display.php:160
+msgid "Category"
+msgstr "Catégorie"
+
+#: views/display.php:178
+msgid "New category"
+msgstr "Nouvelle catégorie"
+
+#: views/display.php:182
+msgid "Tags (comma-separated)"
+msgstr "Mots-clés (séparés par une virgule)"
+
+#: views/display.php:197
+msgid "Post Format"
+msgstr "Format de la publication"
+
+#: views/display.php:208
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: views/display.php:211
+msgid "Your Email"
+msgstr "Votre email"
+
+#: views/display.php:219
+msgid "Wrong Quiz Answer!"
+msgstr "Mauvaise réponse au quiz !"
+
+#: views/display.php:220
+msgid " plus "
+msgstr " plus "
+
+#: views/display.php:228 views/display.php:383
+msgid "Post Status"
+msgstr "Statut de la publication"
+
+#: views/display.php:247 views/display.php:396
+msgid "Draft"
+msgstr "Brouillon"
+
+#: views/display.php:253 views/display.php:402
+msgid "Private"
+msgstr "Privé"
+
+#: views/display.php:271 views/display.php:357 views/display.php:504
+msgid "Members Only"
+msgstr "Membres seulement"
+
+#: views/display.php:280
+msgid "Group Post"
+msgstr "Publication du groupe"
+
+#: views/display.php:289 views/display.php:436
+msgid "Friends Only"
+msgstr "Amis seulement"
+
+#: views/display.php:297 views/display.php:444
+msgid "Following"
+msgstr "Abonnements"
+
+#: views/display.php:305 views/display.php:452
+msgid "Followed"
+msgstr "Abonnés"
+
+#: views/display.php:328 views/display.php:475
+msgid "Group"
+msgstr "Groupe"
+
+#: views/display.php:349 views/display.php:496
+msgid "Visibility:"
+msgstr "Visibilité :"
+
+#: views/display.php:356 views/display.php:503
+msgid "Group Only"
+msgstr "Groupe uniquement"
+
+#: views/display.php:358 views/display.php:505
+msgid "Public"
+msgstr "Public"
+
+#: views/display.php:420
+msgid "Members Only Pending"
+msgstr "Membres en attente seulement"
+
+#: views/display.php:428
+msgid "Group Post Pending"
+msgstr "Publications du groupe en attente"
+
+#: views/display.php:532
+msgid "New Post"
+msgstr "Nouvelle publication"
+
+#: views/display.php:566
+msgid ""
+"Seems like you don't have Javascript enabled. To use this function you need "
+"to enable JavaScript."
+msgstr ""
+"On dirait que Javascript n'est pas activé. Pour utiliser cette fonction, "
+"vous devez activer JavaScript."
